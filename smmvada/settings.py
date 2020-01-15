@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'rest_auth.registration',
     'allauth.socialaccount',
     'allauth.socialaccount.providers.vk',
+    'access_social',
+
 ]
 
 MIDDLEWARE = [
